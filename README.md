@@ -1,4 +1,4 @@
-Series-de-Tiempo_ATG_A01284775
+Series-de-Tiempo_ATR_A01284775
 
 TEC Finanzas Enero-Junio 2023
 
